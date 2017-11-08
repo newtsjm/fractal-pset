@@ -20,6 +20,6 @@ Note: In the past, some students have reported that they had difficulty using th
 have been the case; but just to cautious, if you are using NetBeans, you should create an empty project first 
 (or one from existing sources after unpacking pset-code-2017.zip).  That will create a build.xml file (and all its supporting
 files) automatically.  You can then rename that file for safe-keeping, and move the version provided here in to replace it. 
-If you have already put in come customisations of your own into build.xml, then you probably just want to add the customized parts
-of the given file (the last parts) into your own existing build.xml file.  To do that look for the sections after the big comment
-very near the end of the file.
+If you have already put in some customisations of your own into build.xml, then you probably just want to add the customized parts
+of the given file (the last parts) into your own existing build.xml file.  To do that look for the sections after the standard big
+comment, near the end of the file, and then move them into your own build.xml, after your other customisations.
